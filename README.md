@@ -8,6 +8,7 @@
 
 In this lesson, we'll introduce playground files in Xcode and how to access and write code with them. 
 
+
 ## Learning Objectives
 
 * Create a new playground file using Xcode.
